@@ -7,6 +7,8 @@
 *.swo
 *.swp
 *.vi
+*.jar
+*.war
 *~
 *.sass-cache
 node_modules/
@@ -27,5 +29,5 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
-src/main/resources/application.properties
-src/main/resources/application.yml
+/src/main/resources/application.properties
+/src/main/resources/application.yml
